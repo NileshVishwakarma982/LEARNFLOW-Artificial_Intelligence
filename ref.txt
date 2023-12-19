@@ -1,0 +1,10 @@
+reference
+
+https://www.tensorflow.org/api_docs/python/tf/keras
+https://github.com/sanjay-raghu/sentiment-analysis-using-LSTM-keras/blob/master/lstm-sentiment-analysis-data-imbalance-keras.ipynb
+https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
+https://www.kaggle.com/ngyptr/lstm-sentiment-analysis-keras
+https://www.youtube.com/watch?v=qpb_39IjZA0
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+https://medium.com/@hunterheidenreich/understanding-keras-dense-layers-2abadff9b990
+https://github.com/hansmichaels/sentiment-analysis-IMDB-Review-using-LSTM
