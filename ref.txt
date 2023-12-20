@@ -10,3 +10,4 @@ https://medium.com/@hunterheidenreich/understanding-keras-dense-layers-2abadff9b
 https://github.com/hansmichaels/sentiment-analysis-IMDB-Review-using-LSTM
 https://github.com/RudrenduPaul/Python-Ecommerce-recommendation-system-using-machine-learning
 https://github.com/KlrShaK/Delhi-Temperature-Prediction-Time-Series-data/blob/master/Delhi_daily_temp.py
+https://github.com/MuhammadMoinFaisal/Sign-Language-Alphabets-Detection-and-Recongition-using-YOLOv8/blob/main/Sign_Language_Alphabets_Detection_and_Recognition_using_YOLOv8.ipynb
