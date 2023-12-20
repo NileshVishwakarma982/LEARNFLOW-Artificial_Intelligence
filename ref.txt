@@ -9,3 +9,4 @@ https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-st
 https://medium.com/@hunterheidenreich/understanding-keras-dense-layers-2abadff9b990
 https://github.com/hansmichaels/sentiment-analysis-IMDB-Review-using-LSTM
 https://github.com/RudrenduPaul/Python-Ecommerce-recommendation-system-using-machine-learning
+https://github.com/KlrShaK/Delhi-Temperature-Prediction-Time-Series-data/blob/master/Delhi_daily_temp.py
